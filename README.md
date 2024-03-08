@@ -4,7 +4,7 @@
 #### Para os dados utilizei o famoso Iris Dataset para aplicar o modelo KNN
 https://scikit-learn.org/stable/datasets/toy_dataset.html#iris-dataset
 
-![alt_text](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Machine+Learning+R/iris-machinelearning.png)
+![image](https://github.com/naimeaiub/Machine_Learning-Pos_Data_Science/assets/111865299/1aa2e33b-5b1b-470c-a625-c49a1d5f0cc4)
 
 <br>
 
